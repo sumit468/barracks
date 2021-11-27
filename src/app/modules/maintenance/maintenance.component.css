@@ -1,0 +1,22 @@
+.bike-img {
+    width: 675px;
+    height: 635px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 635px;
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.font-lg {
+    font-size: 40px;
+}
+
+.font-sm {
+    font-size: 15px;
+}

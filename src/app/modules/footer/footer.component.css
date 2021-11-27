@@ -1,0 +1,14 @@
+.align {
+    color: white;
+    justify-content: center;
+    text-align: center;
+    width: 30%;
+}
+
+.align a {
+    color: white;
+}
+
+footer {
+    background-color: black;
+}
