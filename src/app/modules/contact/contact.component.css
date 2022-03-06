@@ -1,0 +1,21 @@
+.contact{
+    background-color: black;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.contact-form{
+    margin: 30px;
+}
+.contact-form input{
+    display: block;
+    align-items: center;
+}
+.input{
+    margin: 10px;
+}
+.contact-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+}

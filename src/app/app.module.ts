@@ -14,6 +14,7 @@ import { MaintenanceComponent } from './modules/maintenance/maintenance.componen
 import { NavbarComponent } from './modules/navbar/navbar.component';
 import { ProtectionComponent } from './modules/protection/protection.component';
 import { ShopComponent } from './modules/shop/shop.component';
+import { ContactComponent } from './modules/contact/contact.component';
 
 
 
@@ -27,7 +28,8 @@ import { ShopComponent } from './modules/shop/shop.component';
     MaintenanceComponent,
     LightsComponent,
     AccessoriesComponent,
-    FooterComponent
+    FooterComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
